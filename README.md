@@ -53,12 +53,13 @@ curl -X POST https://api.speedyindex.com/v1/add-task \
            ]
          }'
 
-2. Check Balance
-Endpoint: GET /balance
+#### 2. Check Balance
 
-Response Example:
+**Endpoint:** `GET /balance`
 
-JSON
+**Response Example:**
+
+```json
 {
   "status": "success",
   "balance": 1500,
