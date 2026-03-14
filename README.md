@@ -10,7 +10,7 @@ With the SpeedyIndex API, you can automate the following processes:
 
 *   **Accelerate indexing** of links in Google.
 *   **Accelerate indexing** of websites in Yandex.
-*   **Ahrefs alternative backlink checker** of pages via our [Google Index Checker](https://en.speedyindex.com/backlink-checker/).
+*   **Ahrefs alternative backlink checker** of pages via our [Backlink Checker](https://en.speedyindex.com/backlink-checker/).
 *   **Check Google indexing status** of pages via our [Google Index Checker](https://en.speedyindex.com/google-index-checker/).
 *   **Check Bing indexing status** of pages via our [Google Index Checker](https://en.speedyindex.com/bing-index-checker/).
 *   **Check Yandex indexing status** of pages via our [Yandex Index Checker](https://en.speedyindex.com/google-index-checker/).
